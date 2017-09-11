@@ -1,2 +1,1 @@
-# viper
-Ethereum Smart Contracts using Viper
+# Viper: Smart Contracts language for Ethereum
